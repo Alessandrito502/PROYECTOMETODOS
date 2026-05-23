@@ -1,0 +1,11 @@
+[
+    {
+        "method": "lagrange",
+        "res": "7.75",
+        "x_vals": "10, 20, 30",
+        "y_vals": "5, 12, 25",
+        "val": "15",
+        "datetime": "22/05/2026 19:32:43",
+        "location": "Guatemala City, GT"
+    }
+]

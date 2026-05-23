@@ -1,0 +1,38 @@
+[
+    {
+        "method": "newton",
+        "res": "8.0",
+        "x_vals": "7",
+        "y_vals": "8",
+        "val": "9",
+        "datetime": "19/05/2026 19:52:34",
+        "location": "Guatemala City, GT"
+    },
+    {
+        "method": "lagrange",
+        "res": "2.0",
+        "x_vals": "1",
+        "y_vals": "2",
+        "val": "3",
+        "datetime": "19/05/2026 19:52:56",
+        "location": "Guatemala City, GT"
+    },
+    {
+        "method": "lagrange",
+        "res": "6.0",
+        "x_vals": "8",
+        "y_vals": "6",
+        "val": "5",
+        "datetime": "19/05/2026 20:07:05",
+        "location": "Guatemala City, GT"
+    },
+    {
+        "method": "newton",
+        "res": "6.0",
+        "x_vals": "8",
+        "y_vals": "6",
+        "val": "2",
+        "datetime": "19/05/2026 20:07:21",
+        "location": "Guatemala City, GT"
+    }
+]
